@@ -1,15 +1,6 @@
-# **🎨 README.md Créatif pour Ton Portfolio**
 
-Voici plusieurs options créatives pour ton README.md :
-
-## **🎯 OPTION 1 : Minimaliste & Élégant**
-```markdown
 # 🎨 Mon Portfolio
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222?style=for-the-badge&logo=githubpages)
 
 > *"Le voyage de mille kilomètres commence par un premier commit."*
 
@@ -129,23 +120,6 @@ const developer = {
 *⭐ Si ce projet t'inspire, n'hésite pas à laisser une star !*
 ```
 
-## **🌈 OPTION 2 : Avec Badges Animés**
-```markdown
-<div align="center">
-
-# ✨ Portfolio Personnalisé
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hello+World+👋;Welcome+to+my+Portfolio;Step+by+Step+Learner;Future+Developer+in+Progress" alt="Typing animation" />
-
-![HTML](https://img.shields.io/badge/-HTML-FF6B6B?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-4ECDC4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFE66D?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-6A0572?style=for-the-badge&logo=git&logoColor=white)
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=Hichaminventor10/monportfolio&label=Visiteurs&countColor=%233B82F6)](https://visitorbadge.io/status?path=Hichaminventor10/monportfolio)
-![GitHub Stars](https://img.shields.io/github/stars/Hichaminventor10/monportfolio?style=social)
-
-</div>
 
 ## 📖 **Histoire du Projet**
 > *"Every great developer once started where you are now."*  
@@ -161,12 +135,6 @@ const developer = {
 | ✨ Animations | 🚧 En cours | Interactions utilisateur |
 | 📊 Projets | 📅 Planifié | Gallery interactive |
 
-## 🚀 **Démo Live**
-<p align="center">
-  <a href="https://Hichaminventor10.github.io/monportfolio/">
-    <img src="https://img.shields.io/badge/🌐_Visiter_le_Site-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
-  </a>
-</p>
 
 ## 🛠️ **Installation Rapide**
 ```bash
