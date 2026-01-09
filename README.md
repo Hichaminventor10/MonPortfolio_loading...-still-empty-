@@ -42,20 +42,6 @@ monportfolio/
 ```
 
 
-## 📈 Évolution du Projet
-```mermaid
-timeline
-    title Roadmap du Portfolio
-    section Phase 1
-      Initiation : Structure de base
-                   : Déploiement GitHub Pages
-    section Phase 2
-      Enrichissement : Contenu about me
-                      : Gallery projets
-    section Phase 3
-      Avancé : Animations complexes
-              : Backend contact form
-```
 
 
 
@@ -104,7 +90,7 @@ graph LR
     E --> F[✨ Future Enhancements]
     
     style A fill:#FF6B6B
-    style F fill:#4ECDC4
+    style F fill:#434AFF
 ```
 
 ## 🤝 **Rejoins l'Aventure**
