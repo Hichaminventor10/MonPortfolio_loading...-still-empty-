@@ -80,7 +80,7 @@ const developer = {
 🚀 Déploiement: GitHub Pages automatique
 ```
 
-## 🌈 **Évolution**
+##  **Évolution**
 ```mermaid
 graph LR
     A[💡 Idée] --> B[📝 HTML Structure]
@@ -101,8 +101,7 @@ graph LR
 
 
 <div align="center">
-  
-**🌟 Si ce projet t'inspire dans ton propre apprentissage, laisse une star !**  
+
 
   
 [![GitHub Follow](https://img.shields.io/github/followers/Hichaminventor10?label=Follow%20%40Hichaminventor10&style=social)](https://github.com/Hichaminventor10)
